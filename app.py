@@ -210,7 +210,7 @@ with right:
     st.button("👨‍🎓 Add Learner")
     st.button("📄 Upload Document")
     st.button("📊 View Reports")
-    st.button("📅 Add Event")
+    #st.button("📅 Add Event")
 
 # --------------------------------------------------
 # FOOTER
