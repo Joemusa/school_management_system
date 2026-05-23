@@ -54,20 +54,6 @@ st.sidebar.image(
 
 st.sidebar.title("Rentabuka")
 
-menu = st.sidebar.radio(
-    "Navigation",
-    [
-        "Dashboard",
-        "Communication",
-        "Attendance",
-        "Learners",
-        "Documents",
-        "Reports",
-        "Events",
-        "Users",
-        "Settings"
-    ]
-)
 
 # --------------------------------------------------
 # HEADER
