@@ -48,7 +48,7 @@ st.markdown("""
 # SIDEBAR
 # --------------------------------------------------
 
-st.sidebar.image("logo.png", width=180)
+st.sidebar.image("Logo.png", width=180)
 st.sidebar.markdown("### Rentabuka School Management System")
 
 st.sidebar.image(
