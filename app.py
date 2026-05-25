@@ -10,7 +10,13 @@ st.set_page_config(
     page_icon="🏫",
     layout="wide"
 )
+# --------------------------------------------------
+# SIDEBAR
+# --------------------------------------------------
 
+st.sidebar.image("Logo.png", width=180)
+
+st.sidebar.title("### Rentabuka School Management System")
 # --------------------------------------------------
 # CUSTOM CSS
 # --------------------------------------------------
@@ -44,19 +50,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# --------------------------------------------------
-# SIDEBAR
-# --------------------------------------------------
 
-st.sidebar.image("Logo.png", width=180)
-st.sidebar.markdown("### Rentabuka School Management System")
-
-st.sidebar.image(
-    "https://cdn-icons-png.flaticon.com/512/3135/3135755.png",
-    width=80
-)
-
-st.sidebar.title("Rentabuka")
 
 
 # --------------------------------------------------
