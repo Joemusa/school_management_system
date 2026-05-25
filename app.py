@@ -47,6 +47,10 @@ st.markdown("""
 # --------------------------------------------------
 # SIDEBAR
 # --------------------------------------------------
+
+st.sidebar.image("logo.png", width=180)
+st.sidebar.markdown("### Rentabuka School Management System")
+
 st.sidebar.image(
     "https://cdn-icons-png.flaticon.com/512/3135/3135755.png",
     width=80
