@@ -85,11 +85,11 @@ st.subheader("📋 Attendance Register")
 
 attendance_data = pd.DataFrame({
     "Learner": [
-        "John Smith",
-        "Sarah Jones",
-        "Peter Brown",
-        "Amy Williams",
-        "James Adams"
+        "Sipho Dlamini",
+        "Ayanda Mkhize",
+        "Thando Nkosi",
+        "Lethabo Molefe",
+        "Naledi Mokoena"
     ],
     "Grade": [
         "Grade 8",
@@ -177,8 +177,8 @@ with right:
 
     absent_df = pd.DataFrame({
         "Learner": [
-            "Peter Brown",
-            "James Adams"
+            "Tebogo Khunou",
+            "John Thobejane"
         ],
         "Grade": [
             "Grade 9",
