@@ -97,11 +97,11 @@ with left:
             "L005"
         ],
         "Learner Name": [
-            "John Smith",
-            "Sarah Jones",
-            "Peter Brown",
-            "Amy Williams",
-            "James Adams"
+            "Sipho Dlamini",
+            "Ayanda Mkhize",
+            "Thando Nkosi",
+            "Lethabo Molefe",
+            "Naledi Mokoena"
         ],
         "Grade": [
             "Grade 8",
@@ -129,9 +129,9 @@ with right:
 
     st.subheader("Recent Admissions")
 
-    st.success("John Smith")
-    st.success("Amy Williams")
-    st.success("Sarah Jones")
+    st.success("Naledi Mokoena")
+    st.success("Sipho Dlamini")
+    st.success("Thando Nkosi")
 
     st.subheader("Quick Actions")
 
