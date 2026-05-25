@@ -177,7 +177,7 @@ with right:
 
     absent_df = pd.DataFrame({
         "Learner": [
-            "Thando Knosi",
+            "Thando Nkosi",
             "Naledi Mokoena"
         ],
         "Grade": [
