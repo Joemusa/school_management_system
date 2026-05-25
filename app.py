@@ -16,7 +16,7 @@ st.set_page_config(
 
 st.sidebar.image("Logo.png", width=180)
 
-st.sidebar.title("### Rentabuka School Management System")
+st.sidebar.markdown("### Rentabuka School Management System")
 # --------------------------------------------------
 # CUSTOM CSS
 # --------------------------------------------------
